@@ -3,7 +3,7 @@
 This is an automated bot designed to perform mining tasks for multiple accounts in the Telegram webapp game "Cubes."
 
 ## Register
-Anda wajib harus register atau referral menggunakan link ini
+You must register or use the referral link:
 https://t.me/cubesonthewater_bot?start=NjUyMDkyNzExOA==
 
 ## Features
@@ -23,6 +23,7 @@ git clone https://github.com/botchainworld/cubetod.git
 ```
 
 ### 2. Installation
+Navigate to the project directory and install the required dependencies:
 ```bash
 cd cubetod
 npm install
@@ -31,7 +32,8 @@ npm install
 ### 3. Configurasi
 Fill the data.txt file with the init_data. You will need to figure out how to retrieve the init_data for your accounts.
 
-### 4. Menjalankan BOT
+### 4. Running the Bot
+To run the bot, use the following command:
 ```bash
 node cubetod.js
 ```
