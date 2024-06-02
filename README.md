@@ -1,3 +1,5 @@
+![Alt-text](https://raw.githubusercontent.com/botchainnetwork/cubetod/main/20240602_183901.jpg)
+
 # CubeTOD V.1
 
 This is an automated bot designed to perform mining tasks for multiple accounts in the Telegram webapp game "Cubes."
