@@ -4,9 +4,7 @@ This is an automated bot designed to perform mining tasks for multiple accounts 
 
 ## Register
 Anda wajib harus register atau referral menggunakan link ini
-```link
 https://t.me/cubesonthewater_bot?start=NjUyMDkyNzExOA==
-```
 
 ## Features
 - Automatic login
