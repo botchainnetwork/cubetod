@@ -33,7 +33,7 @@ npm install
 ```
 
 ### 3. Configurasi
-Fill the data.txt file with the init_data. You will need to figure out how to retrieve the init_data for your accounts.
+Fill the data.txt file with query_id. You will need to figure out how to retrieve the query_id for your accounts.
 
 ### 4. Running the Bot
 To run the bot, use the following command:
