@@ -1,9 +1,12 @@
 # CubeTOD V.1
 
 This is an automated bot designed to perform mining tasks for multiple accounts in the Telegram webapp game "Cubes."
+follow our telegram channel<br>
+https://t.me/botchainnetwork<br>
+https://t.me/AirDropFamilyIDN
 
 ## Register
-You must register or use the referral link:
+You must register or use the referral link:<br>
 https://t.me/cubesonthewater_bot?start=NjUyMDkyNzExOA==
 
 ## Features
